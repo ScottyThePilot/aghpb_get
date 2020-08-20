@@ -1,0 +1,22 @@
+{
+  "name": "aghpb_get",
+  "version": "1.0.0",
+  "description": "Gets a list of URLs to pictures of anime girls holding programming books",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottyThePilot/aghpb_get.git"
+  },
+  "author": "ScottyThePilot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScottyThePilot/aghpb_get/issues"
+  },
+  "homepage": "https://github.com/ScottyThePilot/aghpb_get#readme",
+  "dependencies": {
+    "github-trees": "^0.2.0"
+  }
+}
